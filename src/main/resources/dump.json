@@ -1,0 +1,32 @@
+{
+  "customerAddress": "313 Nguyen Thi Thap",
+  "CoDAmount": 380000.0,
+  "origin": "[origin_flag]",
+  "customerProvince": "79",
+  "InsuranceFee": 0.0,
+  "customerName": "Le Thi Ngoc Dung",
+  "Weight": 200.0,
+  "token": "[token_flag]",
+  "products": [
+    {
+      "quantity": 1.0,
+      "sCode": "9000000000010"
+    },
+    {
+      "quantity": 1.0,
+      "sCode": "1104000000372"
+    }
+  ],
+  "NoteCode": "CHOXEMHANGKHONGTHU",
+  "ServiceID": "CHUAN",
+  "customerPhone": "01238892518",
+  "customerDistrict": "776",
+  "servicePackage": "chuan",
+  "Length": 10.0,
+  "transporter": "GHN",
+  "location": 12364,
+  "Height": 10.0,
+  "PaymentTypeID": 1,
+  "Width": 10.0,
+  "tracking_id": "2FK9N4FS"
+}
